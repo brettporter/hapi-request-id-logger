@@ -1,0 +1,17 @@
+{
+  "name": "hapi-req-id-logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bunyan": "^1.8.5",
+    "hapi": "^16.1.0",
+    "hapi-bunyan": "^0.6.0",
+    "hapi-request-id": "^1.1.0"
+  }
+}
